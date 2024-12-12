@@ -1,6 +1,6 @@
 # 蓝兔支付SDK测试工程
 
-## 1.测试工程启动
+##  1.测试工程启动
 
 
 
@@ -42,8 +42,6 @@
    @Configuration
    @EnableConfigurationProperties(类名.class)
    ```
-
-   
 
    ![image-20241212172622093](https://hahaha310.oss-cn-qingdao.aliyuncs.com/image-20241212172622093.png)
 
