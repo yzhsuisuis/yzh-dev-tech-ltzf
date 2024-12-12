@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+ltzf:
+  sdk:
+    config:
+      enabled: true
+      app_id: 1110399
+      merchant_id: 1700833091
+      partner_key: 2aadaaf746b36088b77dc9e7b995ea4d
+
+# 日志
+logging:
+  level:
+    root: info
+  config: classpath:logback-spring.xml
